@@ -1,4 +1,8 @@
 Чурсанов Дмитрий ЗИТ-23
-Скриншоты работы:
-(https://github.com/user-attachments/assets/1d88d473-5445-4146-9d97-696d309549f1)
-(https://github.com/user-attachments/assets/acd7dc40-50ca-4b10-b015-504c80a1a750)
+
+
+
+Скриншоты:
+![2](https://github.com/user-attachments/assets/fd8d72f5-f105-40f7-adaf-b03196d5876c)
+
+![3](https://github.com/user-attachments/assets/8e8083c9-28d8-4480-abff-5416df863c11)
